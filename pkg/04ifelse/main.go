@@ -11,4 +11,9 @@ func main() {
 	} else {
 		fmt.Println("x is less than 5")
 	}
+
+	// if文の中で変数を宣言することができる
+	if i := 10; i > 5 {
+		fmt.Println("i is greater than 5")
+	}
 }
