@@ -20,6 +20,6 @@
 20. structによる構造体の定義
 21. JSONのエンコードとデコード
 22. jsonのバリデーション
-23. PostgreSQLによるSQLデータベースの操作
+23. PostgreSQLによるSQLデータベースのCRUD操作
 24. GORMによるSQLデータベースの操作
 25. GinによるWebアプリケーションの作成
