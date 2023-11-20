@@ -5,7 +5,7 @@ git clone git@github.com:SatoshiTomita/go-learning.git
 cd go-learning
 ```
 
-.devcontainerがあるので、VSCodeで開くとコンテナが立ち上げることができます。
+.devcontainerがあるので、VSCodeなどで開くとコンテナを立ち上げることができます
 
 # Go言語の学習
 1. varによる変数の宣言と初期化
@@ -35,3 +35,6 @@ cd go-learning
 25. GinによるWebアプリケーションの作成
 26. osによるファイルの操作
 27. testingによるテストの作成
+28. waitgroupによる並列処理の同期
+29. APIへのリクエストをwaitgroupで並列化
+30. mutexによる排他制御

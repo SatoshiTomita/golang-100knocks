@@ -17,4 +17,10 @@ func main() {
 	greet("Alice")
 	greet("Bob")
 	fmt.Println(add(1, 2))
+
+	// 即時関数
+	text := func(msg string) string {
+		return msg + "!"
+	}("Hello, Go")
+	fmt.Println(text) // Hello, Go!
 }
