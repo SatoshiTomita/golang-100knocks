@@ -1,13 +1,17 @@
-# 実行方法
+# Go言語N本ノック
+
+Go言語初心者による勉強用リポジトリ
+
+## 実行方法
 
 ```bash
-git clone git@github.com:SatoshiTomita/go-learning.git
-cd go-learning
+git clone git@github.com:SatoshiTomita/golang-100knocks.git
+cd golang-100knocks
 ```
 
 .devcontainerがあるので、VSCodeなどで開くとコンテナを立ち上げることができます
 
-# Go言語の学習
+## Go言語の学習
 1. varによる変数の宣言と初期化
 2. 短縮した変数の宣言と初期化
 3. 配列とMap
@@ -38,3 +42,4 @@ cd go-learning
 28. waitgroupによる並列処理の同期
 29. APIへのリクエストをwaitgroupで並列化
 30. mutexによる排他制御
+31. トランザクション

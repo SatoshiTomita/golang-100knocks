@@ -1,4 +1,4 @@
-module go-learning
+module golang-100knocks
 
 go 1.21.3
 
