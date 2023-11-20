@@ -1,3 +1,13 @@
+# 実行方法
+
+```bash
+git clone git@github.com:SatoshiTomita/go-learning.git
+cd go-learning
+```
+
+.devcontainerがあるので、VSCodeで開くとコンテナが立ち上げることができます。
+
+# Go言語の学習
 1. varによる変数の宣言と初期化
 2. 短縮した変数の宣言と初期化
 3. 配列とMap
@@ -23,3 +33,5 @@
 23. PostgreSQLによるSQLデータベースのCRUD操作
 24. GORMによるSQLデータベースの操作
 25. GinによるWebアプリケーションの作成
+26. osによるファイルの操作
+27. testingによるテストの作成
