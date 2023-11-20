@@ -12,7 +12,7 @@
   // Configure tool-specific properties.
   "customizations": {
     "vscode": {
-      "extensions": ["qufiwefefwoyn.inline-sql-syntax"],
+      "extensions": ["qufiwefefwoyn.inline-sql-syntax", "jinliming2.vscode-go-template"],
       "settings": {
         "editor.formatOnSave": true,
         // for inline-sql-syntax
