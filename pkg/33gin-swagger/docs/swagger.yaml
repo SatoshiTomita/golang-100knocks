@@ -1,0 +1,33 @@
+info:
+  contact: {}
+paths:
+  /example/helloworld:
+    get:
+      consumes:
+      - application/json
+      description: 文字列を返すだけ
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: ハローワールド
+      tags:
+      - example
+    post:
+      consumes:
+      - application/json
+      description: POSTされたら文字列を返すだけ
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: ハローワールド
+      tags:
+      - example
+swagger: "2.0"
