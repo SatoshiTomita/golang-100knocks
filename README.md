@@ -43,3 +43,6 @@ cd golang-100knocks
 29. APIへのリクエストをwaitgroupで並列化
 30. mutexによる排他制御
 31. トランザクション
+32. テンプレートエンジン
+33. gin-swaggerによるAPIドキュメントの作成
+34. GraphiQLによるGraphQLの実行
