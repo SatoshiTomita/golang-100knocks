@@ -46,3 +46,5 @@ cd golang-100knocks
 32. テンプレートエンジン
 33. gin-swaggerによるAPIドキュメントの作成
 34. GraphiQLによるGraphQLの実行
+35. slogによるログの出力
+36. zapによるログの出力
