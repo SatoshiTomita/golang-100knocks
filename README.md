@@ -49,3 +49,4 @@ cd golang-100knocks
 35. slogによるログの出力
 36. zapによるログの出力
 37. RestyによるHTTPクライアントの作成
+38. JWTトークンの作成と検証
