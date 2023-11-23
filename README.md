@@ -48,3 +48,4 @@ cd golang-100knocks
 34. GraphiQLによるGraphQLの実行
 35. slogによるログの出力
 36. zapによるログの出力
+37. RestyによるHTTPクライアントの作成
