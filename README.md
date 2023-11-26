@@ -50,3 +50,4 @@ cd golang-100knocks
 36. zapによるログの出力
 37. RestyによるHTTPクライアントの作成
 38. JWTトークンの作成と検証
+39. GinによるJWTトークンの検証
