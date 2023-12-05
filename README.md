@@ -51,3 +51,5 @@ cd golang-100knocks
 37. RestyによるHTTPクライアントの作成
 38. JWTトークンの作成と検証
 39. GinによるJWTトークンの検証
+40. errorsによるエラーの作成とハンドリング
+41. panicとrecoverによるエラーハンドリング
