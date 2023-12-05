@@ -15,6 +15,7 @@
       "extensions": ["qufiwefefwoyn.inline-sql-syntax", "jinliming2.vscode-go-template"],
       "settings": {
         "editor.formatOnSave": true,
+        "editor.tabSize": 2,
         // for inline-sql-syntax
         "inlineSQL.enableDBIntegration": true,
         "inlineSQL.dbDriver": "postgres",
